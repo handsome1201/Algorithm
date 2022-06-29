@@ -1,0 +1,2 @@
+W 5 B 3 C 11 R 8 T 2 Z 1 A 5
+H 2 C 2 B 4 G 8 T 10 Z 4 D 5

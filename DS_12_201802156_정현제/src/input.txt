@@ -1,0 +1,1 @@
+a map is an abstract data type designed to efficiently store and retrieve values based upon a uniquely identifying search key for each specifically a map stores key value pairs keys are required to be unique so that the association of keys to values defines a mapping
